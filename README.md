@@ -3,7 +3,7 @@
 This is the source code for the paper——"StressNet: A Dynamic Dropout Layer based Neural Network for
 Stress Recognition".
 
-For running this source code. You must have installed Python 3, Pytorch 1.6.0 , Numpy, FFMPEG and Opencv on your platform. You should download the video dataset from the [link (Google Drive)](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html) and unzip it into the `videos` directory.
+For running this source code. You must have installed Python 3, Pytorch 1.6.0 , Numpy, FFMPEG and Opencv on your platform. You should download the video dataset from the [link (Google Drive)](http://) and unzip it into the `videos` directory.
 
 
 
@@ -39,7 +39,7 @@ For running this source code. You must have installed Python 3, Pytorch 1.6.0 , 
 
 **First, you location directory  should be 'StressNet'**;
 
-Make sure put videos on the 'videos' directory ; (We higly recommend dont use 'TSC-06_07_12-1630-M.avi')
+**Make sure put videos on the 'videos' directory**
 
 Run the main.py file.
 
