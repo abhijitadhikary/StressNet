@@ -1,7 +1,6 @@
 # Description
 
-This is the source code for the paper——"StressNet: A Dynamic Dropout Layer based Neural Network for
-Stress Recognition".
+This is the source code for the paper——"A Deep Neural Network based on Dynamic Dropout Layers for Stress Recognition".
 
 For running this source code. You must have installed Python 3, Pytorch 1.6.0 , Numpy, FFMPEG and Opencv on your platform. You should download the video dataset from the [link (Google Drive)](http://) and unzip it into the `videos` directory.
 
